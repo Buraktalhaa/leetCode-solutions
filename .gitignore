@@ -1,2 +1,3 @@
-coz
-node_modules
+coz/
+node_modules/
+dist/
