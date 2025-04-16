@@ -1,0 +1,21 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "tsc-watch -p tsconfig.json --onSuccess \"nodemon .\""
+  },
+  "main": "dist/main",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9",
+    "tsc-watch": "^6.2.1"
+  }
+}
